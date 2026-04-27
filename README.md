@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy José García 👋
 
 ### 👨‍💻 Database Developer | SQL Enthusiast 
 
