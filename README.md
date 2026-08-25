@@ -1,37 +1,55 @@
-# ¡Hola! Soy José García 👋
+```markdown
+# Hi there, I'm José Daniel 👋
 
-### 👨‍💻 Database Developer | SQL Enthusiast 
-
-Me especializo en el diseño de arquitecturas de datos y optimización de consultas complejas. Mi enfoque principal es transformar requerimientos de negocio en modelos relacionales robustos y escalables.
-
----
-
-### 🛠️ Tecnologías y Herramientas
-- **Bases de Datos:** MySQL, PostgreSQL, SQL Server.
-- **SQL Avanzado:** CTEs, Window Functions, Query Optimization.
-- **Tools:** MySQL Workbench, DBeaver, Git/GitHub.
+**Data Analyst & Data Solutions Engineer**  
+Focused on transforming raw, unstructured data into actionable business metrics, automated reporting pipelines, and interactive dashboards to drive strategic decision-making.
 
 ---
 
-### 🚀 Proyectos Destacados
+## 🛠️ Core Tech Stack
 
-#### 🛒 [Sistema de Gestión Retail](enlace-a-tu-repo)
-Diseño de una base de datos relacional desde cero para una tienda, incluyendo:
-* Esquema de 5+ tablas normalizadas (3NF).
-* Scripts de carga masiva de datos.
-* Reportes de ventas complejos usando **Window Functions** y **CTEs**.
-
-#### 📈 [Analítica de Datos SQL](enlace-a-tu-repo)
-Repositorio dedicado a la resolución de problemas lógicos y optimización de consultas:
-* Uso de `CAST` y transformaciones de tipos de datos.
-* Implementación de lógica de negocio mediante procedimientos almacenados.
+* **Data Processing & Scripting:** Python (Pandas, NumPy)
+* **Databases & Querying:** SQL (PostgreSQL, MySQL) — CTEs, Window Functions, Query Optimization
+* **Business Intelligence & Visualization:** Power BI, Interactive Web Dashboards
+* **Environment & Version Control:** Git, GitHub, Linux Mint / Unix Shell
 
 ---
 
-### 📊 Mis Estadísticas
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+## 📌 Featured Projects (Business Case Studies)
+
+### 1. 💼 [Payroll Automation & Financial Audit System](https://github.com/your-username/payroll-audit-system)
+* **Problem:** Manual payroll calculation for a medium-sized company led to processing bottlenecks, human calculation errors, and delays in monthly financial reporting.
+* **Solution:** Engineered a robust SQL-based automated pipeline (PostgreSQL) using complex views, window functions, and stored procedures to handle dynamic wage structures, deductions, and automated payroll balancing.
+* **Impact:** Reduced processing turnaround time by **70%** and eliminated calculation discrepancies across financial cycles.
+* **Tech Stack:** SQL (PostgreSQL), Data Validation, Database Design.
 
 ---
 
-### 📫 Contacto
-Correo: josedaniel.tech@gmail.com
+### 2. 📊 [Executive E-Commerce Performance Dashboard](https://github.com/your-username/ecommerce-sales-intelligence)
+* **Problem:** Stakeholders lacked real-time visibility into daily sales KPIs, inventory turnover, and customer retention trends across multi-channel retail operations.
+* **Solution:** Built an interactive Power BI dashboard connected to a structured relational database. Designed custom DAX measures for month-over-month (MoM) growth, customer churn rates, and regional sales distribution.
+* **Impact:** Enabled leadership to identify underperforming product categories instantly, improving stock replenishment decisions by **25%**.
+* **Tech Stack:** Power BI, SQL, Data Modeling (Star Schema), DAX.
+
+---
+
+### 3. 🧹 [Data Cleaning & ETL Pipeline for Unstructured Datasets](https://github.com/your-username/etl-data-cleaning-pipeline)
+* **Problem:** Inconsistent, duplicated, and missing operational data prevented reliable monthly analytics reporting.
+* **Solution:** Developed an end-to-end Python ETL script utilizing Pandas and NumPy to automate data extraction, type conversion, duplicate removal, and outlier detection.
+* **Impact:** Streamlined raw data ingestion into a clean, warehouse-ready dataset, saving **10+ hours** of manual spreadsheet cleanup per month.
+* **Tech Stack:** Python (Pandas, NumPy), Data Cleansing, ETL.
+
+---
+
+## 📫 Connect with Me
+
+* **LinkedIn:** [linkedin.com/in/josesirver](https://www.linkedin.com/in/josesirver)
+* **Email:** josedaniel.tech@gmail.com
+* **Location:** Remote / Open to global opportunities
+
+
+```
+
+---
+
+¿Quieres que redactemos ahora la plantilla en inglés para los `README.md` individuales de cada uno de estos repositorios o prefieres armar la propuesta corta para enviar a clientes en Upwork/Workana?
