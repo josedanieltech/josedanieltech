@@ -1,10 +1,9 @@
-```markdown
 # Hi there, I'm José Daniel 👋
 
-**Data Analyst & Data Solutions Engineer**  
+**Data Analyst & Data Solutions Engineer**
 Focused on transforming raw, unstructured data into actionable business metrics, automated reporting pipelines, and interactive dashboards to drive strategic decision-making.
 
----
+
 
 ## 🛠️ Core Tech Stack
 
@@ -13,7 +12,7 @@ Focused on transforming raw, unstructured data into actionable business metrics,
 * **Business Intelligence & Visualization:** Power BI, Interactive Web Dashboards
 * **Environment & Version Control:** Git, GitHub, Linux Mint / Unix Shell
 
----
+
 
 ## 📌 Featured Projects (Business Case Studies)
 
@@ -23,7 +22,7 @@ Focused on transforming raw, unstructured data into actionable business metrics,
 * **Impact:** Reduced processing turnaround time by **70%** and eliminated calculation discrepancies across financial cycles.
 * **Tech Stack:** SQL (PostgreSQL), Data Validation, Database Design.
 
----
+
 
 ### 2. 📊 [Executive E-Commerce Performance Dashboard](https://github.com/your-username/ecommerce-sales-intelligence)
 * **Problem:** Stakeholders lacked real-time visibility into daily sales KPIs, inventory turnover, and customer retention trends across multi-channel retail operations.
@@ -31,7 +30,7 @@ Focused on transforming raw, unstructured data into actionable business metrics,
 * **Impact:** Enabled leadership to identify underperforming product categories instantly, improving stock replenishment decisions by **25%**.
 * **Tech Stack:** Power BI, SQL, Data Modeling (Star Schema), DAX.
 
----
+
 
 ### 3. 🧹 [Data Cleaning & ETL Pipeline for Unstructured Datasets](https://github.com/your-username/etl-data-cleaning-pipeline)
 * **Problem:** Inconsistent, duplicated, and missing operational data prevented reliable monthly analytics reporting.
@@ -39,7 +38,6 @@ Focused on transforming raw, unstructured data into actionable business metrics,
 * **Impact:** Streamlined raw data ingestion into a clean, warehouse-ready dataset, saving **10+ hours** of manual spreadsheet cleanup per month.
 * **Tech Stack:** Python (Pandas, NumPy), Data Cleansing, ETL.
 
----
 
 ## 📫 Connect with Me
 
@@ -47,9 +45,6 @@ Focused on transforming raw, unstructured data into actionable business metrics,
 * **Email:** josedaniel.tech@gmail.com
 * **Location:** Remote / Open to global opportunities
 
-
-```
-
----
-
-¿Quieres que redactemos ahora la plantilla en inglés para los `README.md` individuales de cada uno de estos repositorios o prefieres armar la propuesta corta para enviar a clientes en Upwork/Workana?
+* **LinkedIn:** [linkedin.com/in/josesirver](https://www.linkedin.com/in/josesirver)
+* **Email:** josedaniel.tech@gmail.com
+* **Location:** Remote / Open to global opportunities
